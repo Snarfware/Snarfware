@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snarfware
 - 👀 May 20, 2022  I’m Brand new! I don't have a single drop of programming knowledge or experience. 
-- 🌱 End goal is game development. Don't know enough to decide things like C++ or C# yet. 
+- 🌱 End goal is game development. Don't know enough to decide things like C++ or C# yet. I expect I won't be on github much for the first couple weeks until I learn my ABC's of coding but I will be here :)
 - 💞️ I’m looking to collaborate on ANYTHING! If you guys have anything that's for newbies please give me a shout!!
 - 📫 pfcfosterj@hotmail.com
 
